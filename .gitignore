@@ -1,0 +1,5 @@
+/.idea/
+/venv/
+/baby_monitor/__pycache__/
+
+*.pyc
